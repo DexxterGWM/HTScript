@@ -8,7 +8,7 @@
 ### ⚙ about which Libs/APIs the script uses rn
 
 **[1] API** (*raw*):<br>
-> [SimpleSpy](https://github.com/exxtremestuffs/SimpleSpySource/raw/master/SimpleSpy.lua) (used for in-game remotes)<br>
+> [SimpleSpy](https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua) (used for in-game remotes)<br>
 
 **[2] Lib** (*raw*):<br>
 > [Elerium](https://raw.githubusercontent.com/memejames/elerium-v2-ui-library/main/Library) (used for the script's gui)
