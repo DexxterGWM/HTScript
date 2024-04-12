@@ -18,11 +18,15 @@
 ### 🧾 about the [script](./Scripts%20Folder/Script.lua)
 > • the script is about testing stuffs, expect specific functions;<br>
 > • expect bugs (*obvs, I'm working on*);
->
+
 > --forgot to say a "curiosity", the `<getter> NPC` will receive ncp(s) reward(s) in 2x.
 
 ### ⚠ warns
-> • please, `run the <script> just 1 time` (causes an error with the library, I'm aware about)
+related to script
+> • please, `run the <script> just 1 time` (causes an error with the library, I'm aware about);<br>
+
+related to functions
+> • (*about the `<getter> npc`*) in case of +1 npc in a close distance, this function will keep trying to get the selected npc.
 
 #
 
@@ -30,3 +34,6 @@
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/HTScript/main/Scripts%20Folder/Script.lua'))()
 ```
+<br>
+
+### **opened this Repo for open-test, I'm not sure about the way/where that I'll keep this script (there's a chance of deletion).
