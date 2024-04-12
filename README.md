@@ -1,5 +1,5 @@
-> **game**: Hacker Tycoon (*known as "HT"*)<br>
-> **platform**: Roblox
+- **game**: Hacker Tycoon (*known as "HT"*)<br>
+- **platform**: Roblox
 
 **[script](./Scripts%20Folder/Script.lua) developed by**: [DexxterGWM](https://github.com/DexxterGWM)
 
