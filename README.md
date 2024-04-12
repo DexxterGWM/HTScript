@@ -23,7 +23,7 @@
 
 ### ⚠ warns
 related to script
-> • please, `run the <script> just 1 time` (causes an error with the library, I'm aware about);<br>
+> • please, **run the** <[*script*](./Scripts%20Folder/Script.lua)> **just 1 time** (causes an error with the library, I'm aware about);<br>
 
 related to functions
 > • (*about the `<getter> npc`*) in case of +1 npc in a close distance, this function will keep trying to get the selected npc.
