@@ -1,4 +1,5 @@
-### about what the script use rn (Libs / APIs)
+### about which Libs/APIs the script uses rn
+
 **[1] API** (*raw*):<br>
 > [SimpleSpy](https://github.com/exxtremestuffs/SimpleSpySource/raw/master/SimpleSpy.lua) (used for in-game remotes)<br>
 
