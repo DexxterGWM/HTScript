@@ -17,7 +17,7 @@
 
 ### 🧾 about the [script](./Scripts%20Folder/Script.lua)
 > • the script is about testing stuffs, expect specific functions;<br>
-> • expect bugs (*obvs, i'm working on*);
+> • expect bugs (*obvs, I'm working on*);
 >
 > --forgot to say a "curiosity", the `<getter> NPC` will receive ncp(s) reward(s) in 2x.
 
