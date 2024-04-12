@@ -22,7 +22,7 @@
 > --forgot to say a "curiosity", the `<getter> NPC` will receive ncp(s) reward(s) in 2x.
 
 ### ⚠ warns
-> • please, `run the <code> just 1 time` (causes an error with the library, i'm aware about)
+> • please, `run the <script> just 1 time` (causes an error with the library, I'm aware about)
 
 #
 
