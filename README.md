@@ -36,4 +36,4 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/HTScript/m
 ```
 <br>
 
-### **opened this Repo for open-test, I'm not sure about the way/where that I'll keep this script (there's a chance of deletion).
+### **opened this Repo for open-test, I'm not sure about the way/where that I'll keep this script (there's a chance of exclusion).
