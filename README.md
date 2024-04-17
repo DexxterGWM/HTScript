@@ -1,3 +1,5 @@
+### 🎲 technical infos
+
 - **game**: Hacker Tycoon (*known as "HT"*)<br>
 - **platform**: Roblox
 
@@ -19,14 +21,11 @@
 > • the script is about testing stuffs, expect specific functions;<br>
 > • expect bugs (*obvs, I'm working on*);
 
-> --forgot to say a "curiosity", the `<getter> NPC` will receive ncp(s) reward(s) in 2x.
+functions
+> `<getter> NPC`: automatically gets all npc(s) (will receive ncp(s) reward(s) in 2x).
 
 ### ⚠ warns
-related to script
 > • please, **run the** <[*script*](./Scripts%20Folder/Script.lua)> **just 1 time** (causes an error with the library, I'm aware about);<br>
-
-related to functions
-> • (*about the `<getter> npc`*) in case of +1 npc in a close distance, this function will keep trying to get the selected npc.
 
 #
 
