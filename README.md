@@ -13,7 +13,7 @@
 > [SimpleSpy](https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua) (used for in-game remotes)<br>
 
 **[2] Lib** (*raw*):<br>
-> [Elerium](https://raw.githubusercontent.com/memejames/elerium-v2-ui-library/main/Library) (used for the script's gui)
+> [Cerberus](https://raw.githubusercontent.com/Jxereas/UI-Libraries/main/cerberus.lua) (used for the script's gui)
 
 #
 
