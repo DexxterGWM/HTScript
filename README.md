@@ -24,9 +24,6 @@
 functions
 > `<getter> NPC`: automatically gets all npc(s) (will receive ncp(s) reward(s) in 2x).
 
-### ⚠ warns
-> • please, **run the** <[*script*](./Scripts%20Folder/Script.lua)> **just 1 time** (causes an error with the library, I'm aware about);<br>
-
 #
 
 ### &ensp;&ensp;also `ctrl + c/v` for dumb guys:
