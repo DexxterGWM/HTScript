@@ -7,22 +7,17 @@
 
 #
 
-### ⚙ about which Libs/APIs the script uses rn
-
-**[1] API** (*raw*):<br>
-> [SimpleSpy](https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua) (used for in-game remotes)<br>
-
-**[2] Lib** (*raw*):<br>
-> [Cerberus](https://raw.githubusercontent.com/Jxereas/UI-Libraries/main/cerberus.lua) (used for the script's gui)
-
-#
-
 ### 🧾 about the [script](./Scripts%20Folder/Script.lua)
-> • the script is about testing stuffs, expect specific functions;<br>
-> • expect bugs (*obvs, I'm working on*);
+> • the script is about testing stuffs, expect specific functions.<br>
 
-functions
-> `<getter> NPC`: automatically gets all npc(s) (will receive ncp(s) reward(s) in 2x).
+<br> **script's sections:**
+
+"*[NPC] SECTION*" contains:
+> `NPC Getter`: automatically gets all npc(s) (reward(s) in 2x).
+
+<br> "*[EVENT] SECTION*" contains:
+> `NPC Quest`: automatically gets the event's npc quest;<br>
+> `[NORMAL] Gifts` and `[EGGS] Gifts`: will get the chosen option (gift) until you cannot buy.
 
 #
 
