@@ -17,7 +17,7 @@
 
 <br> "*[EVENT] SECTION*" contains:
 > `NPC Quest`: automatically gets the event's npc quest;<br>
-> `[NORMAL] Gifts` and `[EGGS] Gifts`: will get the chosen option (gift) until you cannot buy.
+> `[NORMAL] Gifts` and `[EGGS] Gifts`: will get the chosen option (event's gift) until you cannot buy.
 
 #
 
